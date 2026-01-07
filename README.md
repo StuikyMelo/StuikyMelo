@@ -45,7 +45,7 @@ Sou um desenvolvedor versátil e movido por desafios. Transformo ideias em códi
 
 ### 🌍 Contato
 
-- 💬 Discord: `ares1an`
+- 💬 Discord: `stuiky_`
 - 📬 Email: `stuikymelo@gmail.com`
 - 🌐 Portfólio: *(Em breve)*
 
