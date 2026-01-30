@@ -1,48 +1,43 @@
 <h1 align="center">Stuiky</h1>
 
 <p align="center">
-  Full Stack Engineer • Systems, SaaS & Automation
+  <b>Full Stack Engineer • Systems, SaaS & Automation</b><br/>
+  Architecting scalable software and high-performance systems
 </p>
 
 <p align="center">
-  Building scalable systems, automation and digital products.
+  <img src="https://komarev.com/ghpvc/?username=StuikyMelo&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/StuikyMelo?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/StuikyMelo?style=flat-square" />
 </p>
 
 ---
 
-## 🧩 About
+## 🧠 Engineering mindset
 
-I’m a **full stack engineer focused on architecture, scalability and real-world systems**.  
-I design and build products that are meant to **run in production, scale with demand and support business growth**.
+I build **production-grade systems** designed to scale, perform and last.  
+My focus is on **architecture, automation and reliability**, not experiments or throwaway code.
 
-My work goes beyond code — it’s about **infrastructure, reliability and long-term maintainability**.
+Software should be:
+- predictable
+- maintainable
+- secure
+- ready for growth
 
 ---
 
-## ⚙️ What I build
+## ⚙️ What I deliver
 
-- **SaaS platforms & web systems**
-- **REST APIs & system integrations**
+- **SaaS platforms & internal systems**
+- **REST APIs & service integrations**
 - **Automation & bots (Discord, Telegram, WhatsApp)**
 - **Admin dashboards & control panels**
-- **Payment systems & financial integrations**
+- **Payment systems & monetization flows**
 - **FiveM development (Creative, vRP, QBCore)**
 
 ---
 
-## 🧠 Engineering focus
-
-- Clean and maintainable architecture  
-- Scalable and modular systems  
-- Performance & security by default  
-- Production-ready codebases  
-- Business-oriented development  
-
-> Software should solve problems — not create new ones.
-
----
-
-## 🛠️ Tech Stack
+## 🧩 Core stack
 
 <div align="center">
 
@@ -60,22 +55,11 @@ My work goes beyond code — it’s about **infrastructure, reliability and long
 
 ---
 
-## 📊 GitHub Metrics
+## 🧠 Focus areas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuikyMelo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuikyMelo&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📬 Contact
-
-- **Discord:** `stuiky_`
-- **Email:** `stuikymelo@gmail.com`
-
----
-
-<p align="center">
-  <i>Focused on building reliable software, not hype.</i>
-</p>
+```txt
+• System architecture
+• Automation & scaling
+• Security-first development
+• Business-driven engineering
+• Production environments
