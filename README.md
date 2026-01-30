@@ -1,104 +1,81 @@
-<h1 align="center">Stuiky 💎</h1>
+<h1 align="center">Stuiky</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Sistemas, SaaS & Automações de Alto Nível
+  Full Stack Engineer • Systems, SaaS & Automation
 </p>
 
 <p align="center">
-  <b>Eu construo sistemas que sustentam negócios.</b><br/>
-  Se não é sério, escalável e rentável, eu não entrego.
+  Building scalable systems, automation and digital products.
 </p>
 
 ---
 
-## 🧠 Quem eu sou (sem rodeio)
+## 🧩 About
 
-Sou desenvolvedor full stack especializado em **criar sistemas críticos**,  
-daqueles que **não podem falhar**, **não podem travar** e **não podem dar prejuízo**.
+I’m a **full stack engineer focused on architecture, scalability and real-world systems**.  
+I design and build products that are meant to **run in production, scale with demand and support business growth**.
 
-Não trabalho com:
-- projetos improvisados  
-- prazos irreais  
-- código descartável  
-
-Meu foco é **arquitetura sólida, automação inteligente e produto pronto para faturar**.
+My work goes beyond code — it’s about **infrastructure, reliability and long-term maintainability**.
 
 ---
 
-## 💼 O que eu entrego (high level)
+## ⚙️ What I build
 
-- ⚙️ **Sistemas empresariais sob medida**
-- 🌐 **Plataformas SaaS prontas para escalar**
-- 🔗 **APIs seguras, performáticas e documentadas**
-- 🤖 **Automações que reduzem custo operacional**
-- 🎮 **FiveM em nível profissional (Creative, vRP, QBCore)**
-- 📊 **Painéis administrativos estratégicos**
-- 💳 **Integrações financeiras e gateways de pagamento**
-- 🔐 **Controle de acesso, licenças e permissões**
-
-➡️ **Não entrego scripts. Entrego infraestrutura.**
+- **SaaS platforms & web systems**
+- **REST APIs & system integrations**
+- **Automation & bots (Discord, Telegram, WhatsApp)**
+- **Admin dashboards & control panels**
+- **Payment systems & financial integrations**
+- **FiveM development (Creative, vRP, QBCore)**
 
 ---
 
-## 🏆 Meu diferencial
+## 🧠 Engineering focus
 
-✔ Arquitetura pensada antes do código  
-✔ Foco total em performance e segurança  
-✔ Código limpo, versionado e escalável  
-✔ Produto final pronto para produção  
-✔ Visão técnica + visão de negócio  
+- Clean and maintainable architecture  
+- Scalable and modular systems  
+- Performance & security by default  
+- Production-ready codebases  
+- Business-oriented development  
 
-**Você não contrata um programador.  
-Você contrata alguém que entende o impacto do sistema no seu faturamento.**
+> Software should solve problems — not create new ones.
 
 ---
 
-## 🛠️ Stack que sustenta produto
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Execução consistente
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuikyMelo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuikyMelo&layout=compact&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuikyMelo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuikyMelo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📬 Contato (direto ao ponto)
+## 📬 Contact
 
-- 💬 **Discord:** `stuiky_`
-- 📧 **Email:** `stuikymelo@gmail.com`
+- **Discord:** `stuiky_`
+- **Email:** `stuikymelo@gmail.com`
 
 ---
 
-## ⚠️ Nota importante
-
-Se você busca:
-- preço baixo  
-- urgência sem planejamento  
-- soluções rápidas e frágeis  
-
-**Esse perfil não é pra você.**
-
-Agora, se precisa de:
-- um sistema que **aguente escala**
-- uma automação que **economize milhares**
-- uma plataforma que **fature todos os dias**
-
-👉 **Entre em contato. Só projetos sérios.**
+<p align="center">
+  <i>Focused on building reliable software, not hype.</i>
+</p>
