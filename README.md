@@ -45,7 +45,7 @@
 ##
 
 ![Me chama](https://img.shields.io/badge/-Me%20Chama%20:-000000?style=for-the-badge&labelColor=000000)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/stuiky_)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/ares1an)
 [![Email](https://img.shields.io/badge/-Email-5c1bf5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5c1bf5)](mailto:stuikydev@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
